@@ -39,15 +39,22 @@ a:hover {
     background-color: rgb(90, 0, 78);
     color: rgb(168, 54, 121);
 }
+.titulo1 {
+    color: darkmagenta;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-size: 60px;
+    
+    
+}
 .titulo {
     color: darkmagenta;
     text-align: center;
     font-family: 'Roboto Slab', serif;
-    font-size: 50px;
+    font-size: 45px;
     
     
 }
-
 .paragrafo {
     font-size: 20px;
     font-family: 'Heebo', sans-serif;
@@ -70,6 +77,6 @@ a:hover {
 
 .item2 {
     margin-top: 1%;
-    font-size: 15px;
+    font-size: 25px;
     font-family: 'Heebo', sans-serif;
 }
